@@ -8,7 +8,7 @@ $filename = (isset($_POST['file']) && $_POST['file'] != '') ? $_POST['file'] : N
 $message = $_POST['message'];
 $from = $_POST['email'];
 $subject = $_POST['subject'];
-$mailto = 'your@email.com';
+$mailto = 'post@abteilung83.com';
 
 // check if any attachment
 
